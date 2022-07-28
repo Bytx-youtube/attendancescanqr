@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7822119852",
+    "project_id": "qr-attend-c533c",
+    "storage_bucket": "qr-attend-c533c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7822119852:android:8e53915d5bec6a999ea009",
+        "android_client_info": {
+          "package_name": "com.example.attendwithqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7822119852-5rb7dh23iqup4a7gqh2rrjr0ho15v9c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oe0zrH8i8rAl5-dDOYiBdEg-oY-F5rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7822119852-5rb7dh23iqup4a7gqh2rrjr0ho15v9c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
